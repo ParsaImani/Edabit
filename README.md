@@ -1,19 +1,19 @@
 # Edabit
 8 simple OOP codes .
 
-First one:
+##First one:
  I wnt to create a Circle constructor that creates a circle with a radius provided by an argument. The circles constructed must have two getters getArea() (PI*r^2) and getPerimeter() (2*PI*r) which give both 
   respective areas and perimeter (circumference).
 
 
-Second one:
+##Second one:
   I want to Create a method in the Person class which returns how another person's age compares. Given the objects p1, p2 and p3, which will be initialised with the attributes name and age, return a sentence in 
   the 
  following format:
 
   {other_person} is {older than / younger than / the same age as} me.  
 
-Third one:
+##Third one:
   This time i wanna Create methods for the Calculator class that can do the following:
 
     Add two numbers.
@@ -21,13 +21,13 @@ Third one:
     Multiply two numbers.
     Divide two numbers.
 
-Fourth one:
+##Fourth one:
     I created the instance attributes fullname and email in the Employee class. Given a person's first and last names:
 
     Form the fullname by simply joining the first and last name together, separated by a space.
     Form the email by joining the first and last name together with a . in between, and follow it with @company.com at the end. Make sure the entire email is in lowercase.
 
-Fifth one:
+##Fifth one:
      Create a Book class that has two attributes:
 
     .title
@@ -60,7 +60,7 @@ Fifth one:
 
 
 
-sixth one:
+##sixth one:
   Create a class named User and create a way to check the number of users (number of instances) that were created, so that the value can be accessed as a class attribute.
  Examples
 
@@ -82,7 +82,7 @@ Make sure that the usernames are accessible via the instance attribute username.
   .username ➞ "milan_rodrick"
   
 
-seventh one:
+##seventh one:
    In the class Employee, implement the instance attributes as firstname, lastname and salary.
 
    Create the method from_string() which parses a string containing these attributes and assigns them to the correct properties. Properties will be separated by a dash.
@@ -99,8 +99,7 @@ seventh one:
 
    emp2.salary ➞ 55000
 
-  
-  Eighth one:
+  ##Eighth one:
      Create a class Employee that will take a full name as argument, as well as a set of none, one or more keywords. Each instance should have a name and a lastname attribute plus one more attribute for each of 
       the keywords, if any.
       Examples
